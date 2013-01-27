@@ -9,3 +9,5 @@ Currently support:
 - those using beaker.session
 
 Proof-of-Concept for http://vudang.com/2013/01/python-web-framework-from-lfr-to-rce/
+
+A sample vulnerable Flask app is included
